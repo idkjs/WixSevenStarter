@@ -91,3 +91,5 @@ To open developer menu press "d"
 * A module failed to load due to an error and `AppRegistry.registerComponent` wasn't called.
 ```
 Have I missed something?
+
+Update see https://github.com/wix/react-native-navigation/issues/6684#issuecomment-711951603
